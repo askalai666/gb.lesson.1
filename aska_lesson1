@@ -46,7 +46,7 @@ public class HomeWorkApp {
         }
 
     }
-
+// Если a больше или равно b, то необходимо вывести в консоль сообщение “a >= b”, в противном случае “a < b”
     public static void compareNumbers() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите число a");
